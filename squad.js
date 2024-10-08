@@ -6,6 +6,7 @@ import Modal from 'react-modal';
 import GlobalContext from '../context/ContextProvider'; 
 import squadImg from "../assets/squad.png";
 import supabase from '../supabaseClient';
+// SDFSDF
 
 const Squad = () => {
   const navigate = useNavigate();
